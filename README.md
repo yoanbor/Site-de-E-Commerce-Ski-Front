@@ -4,11 +4,11 @@ Ce projet consiste à développer un petit site de commerce en ligne pour une en
 
 ***Outils utilisés pour le projet :***
 
-- NOTION (Prise de note)
-- TRELLO (Todolist)
-- FIGMA (Merise)
+- Notion (Prise de note)
+- Trello (Todolist)
+- Figma (Merise)
 - Drawio (UML)
-- GIT (Versionning)
+- Git / Github (Versionning)
 - IntelliJ (Back-end)
 - WebStorm (Front-end)
 
@@ -16,15 +16,19 @@ Ce projet consiste à développer un petit site de commerce en ligne pour une en
 
 Front-End :
 
-- React/SASS
+- React
+- SASS
 
 Back-End :
 
-- Java/Spring
+- Java
+- Spring Boot
+- Spring Data JPA
 
 Base de Données : 
 
 - PostgreSQL
+- PGAdmin
 
 Environnement :
 
@@ -43,8 +47,10 @@ Environnement :
   - Diagramme de classe
   - Diagramme de séquence
 
-* Le back-end dans un autre repository
 * Le front-end dans ce repository
+  
+* Le back-end dans un autre repository
+
 
 
 ## Authors
