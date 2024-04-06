@@ -2,9 +2,7 @@
 
 Ce projet consiste à développer un petit site de commerce en ligne pour une entreprise spécialisée dans les articles du monde du ski. Il permettra aux utilisateurs de consulter les produits et les ajouter au dans leurs paniers et aux administrateur d'ajouter, de modifier et de supprimer des produits.
 
-***Technologies utilisées*** 
-
-Outils utilisés pour le projet :
+***Outils utilisés pour le projet :***
 
 - NOTION (Prise de note)
 - TRELLO (Todolist)
@@ -13,6 +11,8 @@ Outils utilisés pour le projet :
 - GIT (Versionning)
 - IntelliJ (Back-end)
 - WebStorm (Front-end)
+
+***Technologies utilisées*** 
 
 Front-End :
 
@@ -29,7 +29,6 @@ Base de Données :
 Environnement :
 
 - Docker
-
 
 # Livrés 
 
